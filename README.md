@@ -1,6 +1,6 @@
 # Russia, Correlation GDP and Oil - Linear Regression
 
-Problem to solve:  Determine what role oil plays in the Russia economy and predict outcomes in the years to come. 
+**Problem to solve:**  Determine what role oil plays in the Russia economy and predict outcomes in the years to come. 
 
 Data Information:
 - year (From 2004 to 2018)
